@@ -112,7 +112,6 @@ li:hover {
     margin-top: 10%;
 }
 #botao {
-    background-image: image();
     position: fixed;
     bottom: 30px;
     right: 30px;
