@@ -1,6 +1,7 @@
 <div align="center">
-    <h1>🖐 Olá, tudo bem? <br> <em>🖐 Hello, how are you?</em></h1>
-    <h4>Este e um projeto desenvolvido para o desafio do DoWhile da Rockseat. E uma landing page de uma escola fictícia a onde o objetivo e levar a educação para todos os cantos, e a todas as pessoas carentes. Espero que gostem, fique a vontade para dar uma olhada. 😄 <br>  <em>This is a project made for Rockseat's DoWhile challenge. It's a landing page of a fictitious school, where the objective is take the education everywhere and all of the peoples too. I hope you like it and feel free to take a look. 😄 </em></h4>
+<h1>🖐 Olá, tudo bem? <br> <em>🖐 Hello, how are you?</em></h1>
+<h4>Este e um projeto desenvolvido para o desafio do DoWhile da Rockseat. E uma landing page de uma escola fictícia a onde o objetivo e levar a educação para todos os cantos, e a todas as pessoas carentes. Espero que gostem, fique a vontade para dar uma olhada. 😄</h4>
+<h4><em>This is a project made for Rockseat's DoWhile challenge. It's a landing page of a fictitious school, where the objective is take the education everywhere and all of the peoples too. I hope you like it and feel free to take a look. 😄 </em></h4>
 
 <br>
 <hr>
